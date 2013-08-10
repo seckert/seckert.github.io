@@ -1,2 +1,2 @@
-seckert1.github.io
+seckert.github.io
 ==================
